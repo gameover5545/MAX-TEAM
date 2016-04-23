@@ -244,7 +244,7 @@ function create_config( )
     "time",
     
     },
-    sudo_users = {112840592,214596866},--Sudo users
+    sudo_users = {182209675},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
@@ -321,15 +321,6 @@ Only sudo users can run this command
 This command will send text to [group_id]
 
 
-**You can use "#", "!", or "/" to begin all commands
-
-
-*Only admins and sudo can add bots in group
-
-
-*Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
 Commands list :
@@ -448,16 +439,6 @@ Returns group logs
 
 !banlist
 will return group ban list
-
-**You can use "#", "!", or "/" to begin all commands
-
-
-*Only owner and mods can add bots in group
-
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
 
 ]],
 	help_text_super =[[
@@ -605,13 +586,9 @@ will return group ban list
 🔘Returns Username
 #res @username
 
-
-🔘Returns TeleIran About
-#TeleIran 
-
 〰〰〰〰〰〰〰〰〰〰〰〰
 
-✅Channel: @TeleIranTeam☢
+✅
 ]],
   }
   serialize_to_file(config, './data/config.lua')
