@@ -1,4 +1,4 @@
-# [TeleIran](https://telegram.me/TeleIran)
+# [MAX-TEAM](https://telegram.meMAX-TEAM/)
 
 
 
@@ -286,7 +286,7 @@ Join our bot development group by sending `/join 1047524697` to [@TeleIran](http
 # Special thanks to
 [@seyedan25](https://telegram.me/seyedan25)
 
-For managing [@TeleIran](https://telegram.me/TeleIran) on Telegram.
+For managing [@TeleIran](https://telegram.me/MAX-TEAM) on Telegram.
 
 [@Vamptacus](https://telegram.me/Vamptacus)
 
@@ -304,6 +304,6 @@ For managing [@TeleIran](https://telegram.me/TeleIran) on Telegram.
 
 ### Our Telegram channels:
 
-English: [@TeleIranTeam](https://telegram.me/TeleIranTeam)
+English: [@MAX-TEAM](https://telegram.me/MAX-TEAM)
 
-Persian: [@IranIranTeam](https://telegram.me/TeleIranTeam)
+Persian: [@MAX-TEAM](https://telegram.me/MAX-TEAM)
